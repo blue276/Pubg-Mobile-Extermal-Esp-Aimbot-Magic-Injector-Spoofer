@@ -1,0 +1,82 @@
+    ÿÿÿÿ          _Microsoft.Build.Tasks.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a   !Microsoft.Build.Tasks.SystemState   	fileStateSystem.Collections.Hashtable   	      System.Collections.Hashtable   
+LoadFactorVersionComparerHashCodeProviderHashSizeKeysValues   System.Collections.IComparer$System.Collections.IHashCodeProviderìQ8?   
+
+   	   	      	      bC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll   aC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll   ]C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll	   eC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll
+   _C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll   bC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll   hC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Deployment.dll   kC:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll   5C:\Users\Mo\Downloads\Bin\DirectX11-net40\SharpDX.dll   	   	   	   	   	   	   	   	   	   	      +Microsoft.Build.Tasks.SystemState+FileState   lastModifiedassemblyNamedependenciesscatterFilesruntimeVersionframeworkName     >Zà”ÌH
+s
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+       >Zà”ÌH
+
+
+   
+v4.0.30319
+    ISystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089   +Microsoft.Build.Tasks.SystemState+FileState   lastModifiedassemblyNamedependenciesscatterFilesruntimeVersionframeworkName ,Microsoft.Build.Shared.AssemblyNameExtension   .Microsoft.Build.Shared.AssemblyNameExtension[]   'System.Runtime.Versioning.FrameworkName       ?-¥FXÑH	!   	"   	#   $   
+v4.0.30319	%   &   NSystem.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089!   ,Microsoft.Build.Shared.AssemblyNameExtension   asAssemblyNameasStringisSimpleName$hasProcessorArchitectureInFusionName	immutableremappedFrom   System.Reflection.AssemblyName?System.Collections.Generic.HashSet`1[[Microsoft.Build.Shared.AssemblyNameExtension, Microsoft.Build.Tasks.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a]]&      	'   (   >SharpDX, Version=2.6.2.0, Culture=neutral, PublicKeyToken=null   	)   "          ,Microsoft.Build.Shared.AssemblyNameExtension   	*   	+   	,   	-   	.   #       %   'System.Runtime.Versioning.FrameworkName   m_identifier	m_version	m_profile
+m_fullNameSystem.Version    /   .NETFramework	0   1   Client
+'   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlags2   SharpDX
+	3      4   =file:///C:/Users/Mo/Downloads/Bin/DirectX11-net40/SharpDX.dll	5   ?ÿÿ5System.Configuration.Assemblies.AssemblyHashAlgorithm   value__ €  ?ÿÿ?ÿÿ    
+?ÿÿ<System.Configuration.Assemblies.AssemblyVersionCompatibility   value__    ?ÿÿ#System.Reflection.AssemblyNameFlags   value__    
+)   ?System.Collections.Generic.HashSet`1[[Microsoft.Build.Shared.AssemblyNameExtension, Microsoft.Build.Tasks.v12.0, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a]]   VersionComparerCapacity  +Microsoft.Build.Shared.AssemblyNameComparer   &       	:       *   !   	;   
+   	<   +   !   	=   
+   	>   ,   !   	?   
+   	@   -   !   	A   
+   	B   .   !   	C   
+   	D   0   System.Version   _Major_Minor_Build	_Revision           ÿÿÿÿÿÿÿÿ3       5   0                :   +Microsoft.Build.Shared.AssemblyNameComparer   considerRetargetableFlag    ;   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlagsE   mscorlib
+	F      
+	G   ?ÿÿ?ÿÿ    ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿ    
+<   )       	:       =   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlagsM   System
+	N      
+	O   ?ÿÿ?ÿÿ    ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿ    
+>   )       	:       ?   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlagsU   System.Windows.Forms
+	V      
+	W   ?ÿÿ?ÿÿ    ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿ    
+@   )       	:       A   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlags]   System.Drawing
+	^      
+	_   ?ÿÿ?ÿÿ    ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿ    
+B   )       	:       C   System.Reflection.AssemblyName   _Name
+_PublicKey_PublicKeyToken_CultureInfo	_CodeBase_Version_HashAlgorithm_HashAlgorithmForControl_StrongNameKeyPair_VersionCompatibility_Flags_HashForControl System.Version5System.Configuration.Assemblies.AssemblyHashAlgorithm5System.Configuration.Assemblies.AssemblyHashAlgorithm#System.Reflection.StrongNameKeyPair<System.Configuration.Assemblies.AssemblyVersionCompatibility#System.Reflection.AssemblyNameFlagse   System.Core
+	f      
+	g   ?ÿÿ?ÿÿ    ?ÿÿ?ÿÿ    
+?ÿÿ?ÿÿ   ?ÿÿ?ÿÿ    
+D   )       	:       F      ·z\V4à‰G   0                  N      ·z\V4à‰O   0                  V      ·z\V4à‰W   0                  ^      ?_?:_   0                  f      ·z\V4à‰g   0                  

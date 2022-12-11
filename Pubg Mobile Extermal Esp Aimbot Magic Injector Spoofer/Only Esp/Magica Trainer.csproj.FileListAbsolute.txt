@@ -1,0 +1,10 @@
+D:\Visual Studio\Magica Trainer\Magica Trainer\bin\Release\Magica 2 Trainer.exe
+D:\Visual Studio\Magica Trainer\Magica Trainer\bin\Release\Magica 2 Trainer.pdb
+D:\Visual Studio\Magica Trainer\Magica Trainer\obj\Release\Magica 2 Trainer.exe
+D:\Visual Studio\Magica Trainer\Magica Trainer\obj\Release\Magica 2 Trainer.pdb
+D:\Visual Studio\Magicka-2-trainer\Magica Trainer\obj\Release\Magica 2 Trainer.exe
+D:\Visual Studio\Magicka-2-trainer\Magica Trainer\obj\Release\Magica 2 Trainer.pdb
+D:\Visual Studio\Magicka-2-trainer\Magica Trainer\bin\Release\Magica 2 Trainer.exe
+D:\Visual Studio\Magicka-2-trainer\Magica Trainer\bin\Release\Magica 2 Trainer.pdb
+D:\Visual Studio\Magicka-2-trainer\Magica Trainer\obj\Release\Magica Trainer.csprojResolveAssemblyReference.cache
+s

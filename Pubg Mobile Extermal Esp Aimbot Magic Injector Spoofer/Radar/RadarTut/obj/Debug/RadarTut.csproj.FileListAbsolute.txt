@@ -1,0 +1,11 @@
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.csprojResolveAssemblyReference.cache
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.frmMain.resources
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.Properties.Resources.resources
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.csproj.GenerateResource.Cache
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\bin\Debug\RadarTut.exe.config
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\bin\Debug\RadarTut.exe
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\bin\Debug\RadarTut.pdb
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\bin\Debug\SharpDX.dll
+c:\users\mo\documents\visual studio 2s013\Projects\RadarTut\RadarTut\bin\Debug\SharpDX.xml
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.exe
+c:\users\mo\documents\visual studio 2013\Projects\RadarTut\RadarTut\obj\Debug\RadarTut.pdb
